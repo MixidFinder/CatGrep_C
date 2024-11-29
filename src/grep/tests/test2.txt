@@ -1,0 +1,5 @@
+Another test file.
+With more text.
+Pattern: another
+Pattern: example
+Pattern: example
